@@ -1,0 +1,29 @@
+{
+  "managing_hosts/monitoring-hosts-by-using-red-hat-lightspeed-in-cloud": [
+    "managing_hosts/monitoring-hosts-by-using-insights"
+  ],
+  "managing_hosts/monitoring-hosts-by-using-red-hat-lightspeed-in-cloud#data-control-settings": [
+    "managing_hosts/monitoring-hosts-by-using-red-hat-lightspeed-in-cloud#setting-minimal-data-collection"
+  ],
+  "managing_hosts/configuring-and-setting-up-remote-jobs": [
+    "managing_hosts/configuring_and_setting_up_remote_jobs_managing-hosts"
+  ],
+  "provisioning_hosts/preparing-networking#adding-a-subnet-to-server-by-using-web-ui": [
+    "provisioning_hosts/preparing-networking#Adding_a_Subnet_to_Server_provisioning"
+  ],
+  "provisioning_hosts/preparing-provisioning-content#adding-installation-media-by-using-web-ui": [
+    "provisioning_hosts/preparing-provisioning-content#adding-installation-media_provisioning"
+  ],
+  "provisioning_hosts/preparing-client-platforms#creating-operating-systems-by-using-web-ui": [
+    "provisioning_hosts/preparing-client-platforms#creating-operating-systems_provisioning"
+  ],
+  "provisioning_hosts/preparing-client-platforms#creating-architectures-by-using-web-ui": [
+    "provisioning_hosts/preparing-client-platforms#creating-architectures_provisioning"
+  ],
+  "provisioning_hosts/preparing-client-platforms#creating-compute-profiles-by-using-web-ui": [
+    "provisioning_hosts/preparing-client-platforms#creating-compute-profiles_provisioning"
+  ],
+  "provisioning_hosts/preparing-templates-for-provisioning#creating-partition-tables-by-using-web-ui": [
+    "provisioning_hosts/preparing-templates-for-provisioning#creating-partition-tables_provisioning"
+  ]
+}
